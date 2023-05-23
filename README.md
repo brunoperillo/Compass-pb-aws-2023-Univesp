@@ -1,4 +1,4 @@
-# [Compass UOL](https://compass.uol/en/home/)/AWS Scholarship Program and [UNIVESP](https://univesp.br/)
+# [Compass UOL](https://compass.uol/en/home/)/AWS Scholarship Program
 
 
 - [Sprint 1](https://github.com/Compass-pb-aws-2023-Univesp/sprint-1-pb-aws-univesp/tree/grupo-1) - Data validation system using regex.
