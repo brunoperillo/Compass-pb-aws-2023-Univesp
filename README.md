@@ -88,14 +88,55 @@ Overall, the internship program at the Cognitive Computing studio at Compass UOL
 | [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/134/aws-cloud-practitioner-essentials)| [AWS Cloud Practitioner Essentials: Core Services](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1990/aws-cloud-practitioner-essentials-core-services) | [AWS Cloud Practitioner Essentials: Cloud Concepts](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/2022/aws-cloud-practitioner-essentials-cloud-concepts)|
 
 
-
 ## Project Developers
 [<img src="https://avatars.githubusercontent.com/u/97908745?v=4" width=115><br><sub>Ana Vitória Navili</sub>](https://github.com/anaVitoriaLouro)  | [<img src="https://avatars.githubusercontent.com/u/81330043?v=4" width=115><br><sub>Bernardo Lima</sub>](https://github.com/belima93) | [<img src="https://avatars.githubusercontent.com/u/25699466?v=4" width=115><br><sub>Bruno Perillo</sub>](https://github.com/brunoperillo) | [<img src="https://avatars.githubusercontent.com/u/78061851?v=4" width=115><br><sub>Carlos Camilo</sub>](https://github.com/crobertocamilo) | [<img src="https://avatars.githubusercontent.com/u/96358027?v=4" width=115><br><sub>Diego Lopes</sub>](https://github.com/Diegox0301) | [<img src="https://avatars.githubusercontent.com/u/124359272?v=4" width=115><br><sub>Irati Maffra</sub>](https://github.com/IratiMaffra) | 
 | :---: | :---: | :---: | :---: | :---: | :---: | 
 [<img src="https://avatars.githubusercontent.com/u/88354075?v=4" width=115><br><sub>Kelly Patricia Silva</sub>](https://github.com/KellyPLSilva) | [<img src="https://avatars.githubusercontent.com/u/87142990?v=4" width=115><br><sub>Luciene Godoy</sub>](https://github.com/LucieneGodoy) | [<img src="https://avatars.githubusercontent.com/u/72028902?v=4" width=115><br><sub>Luiz Renato Sassi</sub>](https://github.com/luizrsassi) | [<img src="https://avatars.githubusercontent.com/u/73674662?v=4" width=115><br><sub>Marcos Nativo</sub>](https://github.com/onativo) | [<img src="https://avatars.githubusercontent.com/u/94749597?v=4" width=115><br><sub>O'Dhara Maggi</sub>](https://github.com/odharamaggi)| [<img src="https://avatars.githubusercontent.com/u/117780664?v=4" width=115><br><sub>Viviane Alves </sub>](https://github.com/Vivianes86)|
 
+
+
+<table>
+  <tr>
+    <th colspan="4" style="text-align: left;"><h2>Advisors/Product Owners</h2></th>
+    <th><h2>Scrum master</h2></th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/daniel-compasso"><img src="https://avatars.githubusercontent.com/u/76558798?v=4" width="115"><br><sub>Daniel Nehme Muller</sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/wagnerandersson"><img src="https://avatars.githubusercontent.com/u/54381643?v=4" width="115"><br><sub>Wagner Del Fiol Andersson</sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/RenoirSampaio"><img src="https://avatars.githubusercontent.com/u/24260624?v=4" width="115"><br><sub>Pedro Renoir Sampaio</sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/wladneto"><img src="https://avatars.githubusercontent.com/u/15970264?v=4" width="115"><br><sub>Wladimir Teixeira Neto</sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anaeljonasgit"><img src="https://avatars.githubusercontent.com/u/64177704?v=4" width="115"><br><sub>Anael Jonas Alencar Andrade</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+<!-- 
+## Advisors/Product Owners                                                                                          Scrum master 
+|<img src="https://avatars.githubusercontent.com/u/76558798?v=4" width=115> | <img src="https://avatars.githubusercontent.com/u/54381643?v=4" width=115> | <img src="https://avatars.githubusercontent.com/u/24260624?v=4" width=115> | <img src="https://avatars.githubusercontent.com/u/15970264?v=4" width=115> | <img src="https://avatars.githubusercontent.com/u/64177704?v=4" width=115>
+|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|
+| Daniel Nehme Muller| Wagner Del Fiol Andersson | Pedro RenoirSampaio | Wladimir Teixeira Neto | Anael Jonas Alencar Andrade |
+
+
 ## Scrum master
-Anael Jonas Alencar Andrade
+[<img src="https://avatars.githubusercontent.com/u/64177704?v=4" width=115><br><sub>Anael Jonas Alencar Andrade</sub>](https://github.com/anaeljonasgit)  | 
+| :---: |
+
 
 ## Advisors/Product Owners
 [<img src="https://avatars.githubusercontent.com/u/76558798?v=4" width=115><br><sub>Daniel Nehme Muller</sub>](https://github.com/daniel-compasso) | [<img src="https://avatars.githubusercontent.com/u/54381643?v=4" width=115><br><sub>Wagner Del Fiol Andersson</sub>](https://github.com/wagnerandersson) | [<img src="https://avatars.githubusercontent.com/u/24260624?v=4" width=115><br><sub>Pedro RenoirSampaio</sub>](https://github.com/RenoirSampaio) | [<img src="https://avatars.githubusercontent.com/u/15970264?v=4" width=115><br><sub>Wladimir Teixeira Neto</sub>](https://github.com/wladneto) |
@@ -104,5 +145,5 @@ Anael Jonas Alencar Andrade
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/)&nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/)
 
-
+-->
 
