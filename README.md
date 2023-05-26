@@ -85,11 +85,10 @@ Overall, the internship program at the Cognitive Computing studio at Compass UOL
 
 
 
-
 ## Project Developers
-[<img src="https://avatars.githubusercontent.com/u/97908745?v=4" width=115><br><sub>Ana Vitória Navili</sub>](https://github.com/anaVitoriaLouro)  | [<img src="https://avatars.githubusercontent.com/u/81330043?v=4" width=115><br><sub>Bernardo Lima</sub>](https://github.com/belima93) | [<img src="https://avatars.githubusercontent.com/u/25699466?v=4" width=115><br><sub>Bruno Perillo</sub>](https://github.com/brunoperillo) | [<img src="https://avatars.githubusercontent.com/u/78061851?v=4" width=115><br><sub>Carlos Roberto Camilo</sub>](https://github.com/crobertocamilo) | [<img src="https://avatars.githubusercontent.com/u/96358027?v=4" width=115><br><sub>Diego Lopes da Silva</sub>](https://github.com/Diegox0301) | [<img src="https://avatars.githubusercontent.com/u/124359272?v=4" width=115><br><sub>Irati Maffra</sub>](https://github.com/IratiMaffra) | 
+[<img src="https://avatars.githubusercontent.com/u/97908745?v=4" width=115><br><sub>Ana Vitória Navili</sub>](https://github.com/anaVitoriaLouro)  | [<img src="https://avatars.githubusercontent.com/u/81330043?v=4" width=115><br><sub>Bernardo Lima</sub>](https://github.com/belima93) | [<img src="https://avatars.githubusercontent.com/u/25699466?v=4" width=115><br><sub>Bruno Perillo</sub>](https://github.com/brunoperillo) | [<img src="https://avatars.githubusercontent.com/u/78061851?v=4" width=115><br><sub>Carlos Camilo</sub>](https://github.com/crobertocamilo) | [<img src="https://avatars.githubusercontent.com/u/96358027?v=4" width=115><br><sub>Diego Lopes</sub>](https://github.com/Diegox0301) | [<img src="https://avatars.githubusercontent.com/u/124359272?v=4" width=115><br><sub>Irati Maffra</sub>](https://github.com/IratiMaffra) | 
 | :---: | :---: | :---: | :---: | :---: | :---: | 
-[<img src="https://avatars.githubusercontent.com/u/88354075?v=4" width=115><br><sub>Kelly Patricia Silva</sub>](https://github.com/KellyPLSilva) | [<img src="https://avatars.githubusercontent.com/u/87142990?v=4" width=115><br><sub>Luciene Godoy</sub>](https://github.com/LucieneGodoy) | [<img src="https://avatars.githubusercontent.com/u/72028902?v=4" width=115><br><sub>Luiz Renato Sassi</sub>](https://github.com/luizrsassi) | [<img src="https://avatars.githubusercontent.com/u/73674662?v=4" width=115><br><sub>Marcos Vinicios Nativo</sub>](https://github.com/onativo) | [<img src="https://avatars.githubusercontent.com/u/94749597?v=4" width=115><br><sub>O'Dhara Maggi</sub>](https://github.com/odharamaggi)| [<img src="https://avatars.githubusercontent.com/u/117780664?v=4" width=115><br><sub>Viviane Alves </sub>](https://github.com/Vivianes86)|
+[<img src="https://avatars.githubusercontent.com/u/88354075?v=4" width=115><br><sub>Kelly Patricia Silva</sub>](https://github.com/KellyPLSilva) | [<img src="https://avatars.githubusercontent.com/u/87142990?v=4" width=115><br><sub>Luciene Godoy</sub>](https://github.com/LucieneGodoy) | [<img src="https://avatars.githubusercontent.com/u/72028902?v=4" width=115><br><sub>Luiz Renato Sassi</sub>](https://github.com/luizrsassi) | [<img src="https://avatars.githubusercontent.com/u/73674662?v=4" width=115><br><sub>Marcos Nativo</sub>](https://github.com/onativo) | [<img src="https://avatars.githubusercontent.com/u/94749597?v=4" width=115><br><sub>O'Dhara Maggi</sub>](https://github.com/odharamaggi)| [<img src="https://avatars.githubusercontent.com/u/117780664?v=4" width=115><br><sub>Viviane Alves </sub>](https://github.com/Vivianes86)|
 
 ## Scrum master
 Anael Jonas Alencar Andrade
@@ -98,6 +97,8 @@ Anael Jonas Alencar Andrade
 [<img src="https://avatars.githubusercontent.com/u/76558798?v=4" width=115><br><sub>Daniel Nehme Muller</sub>](https://github.com/daniel-compasso) | [<img src="https://avatars.githubusercontent.com/u/54381643?v=4" width=115><br><sub>Wagner Del Fiol Andersson</sub>](https://github.com/wagnerandersson) | [<img src="https://avatars.githubusercontent.com/u/24260624?v=4" width=115><br><sub>Pedro RenoirSampaio</sub>](https://github.com/RenoirSampaio) | [<img src="https://avatars.githubusercontent.com/u/15970264?v=4" width=115><br><sub>Wladimir Teixeira Neto</sub>](https://github.com/wladneto) |
 | :---: | :---: | :---: | :---: |
 
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/)&nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/)
 
 
 
