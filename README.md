@@ -9,16 +9,18 @@ One of the highlights of the program was the opportunity to work on real-world p
 Overall, the internship program at the Cognitive Computing studio at Compass UOL provided me with a comprehensive learning experience in Machine Learning with AWS. It equipped me with the necessary skills and knowledge to tackle complex problems in this field, while also fostering teamwork and agile project management through the Scrum methodology.
 
 ## Sprint descriptions
-- [Sprint 1](https://github.com/Compass-pb-aws-2023-Univesp/sprint-1-pb-aws-univesp/tree/grupo-1) - Data validation system using regex.
-- [Sprint 2](https://github.com/Compass-pb-aws-2023-Univesp/sprint-2-pb-aws-univesp/tree/grupo-2) - AWS hosted JavaScript website.
-- [Sprint 3](https://github.com/Compass-pb-aws-2023-Univesp/sprint-3-pb-aws-univesp/tree/grupo-4) - Web application, with docker/AWS.
-- [Sprint 4](https://github.com/Compass-pb-aws-2023-Univesp/sprint-4-pb-aws-univesp/tree/grupo-3) - API to query a database.
-- [Sprint 5](https://github.com/Compass-pb-aws-2023-Univesp/sprint-5-pb-aws-univesp/tree/grupo-1) - Classifier in Amazon SageMaker environment.
-- [Sprint 6](https://github.com/Compass-pb-aws-2023-Univesp/sprint-6-pb-aws-univesp/tree/grupo-2) - Audio Message Indexing System with AWS.
-- [Sprint 7](https://github.com/Compass-pb-aws-2023-Univesp/sprint-7-pb-aws-univesp/tree/grupo-2) - Chatbot with Amazon Lex v2.
-- [Sprint 8](https://github.com/Compass-pb-aws-2023-Univesp/sprint-8-pb-aws-univesp/tree/grupo-1) - Rekognition
+- [Sprint 1](https://github.com/brunoperillo/sprint-1-pb-aws-univesp/tree/grupo-1) - Data validation system using regex.
+- [Sprint 2](https://github.com/brunoperillo/sprint-2-pb-aws-univesp/tree/grupo-2) - AWS hosted JavaScript website.
+- [Sprint 3](https://github.com/brunoperillo/sprint-3-pb-aws-univesp/tree/grupo-4) - Web application, with docker/AWS.
+- [Sprint 4](https://github.com/brunoperillo/sprint-4-pb-aws-univesp/tree/grupo-3) - API to query a database.
+- [Sprint 5](https://github.com/brunoperillo/sprint-5-pb-aws-univesp/tree/grupo-1) - Classifier in Amazon SageMaker environment.
+- [Sprint 6](https://github.com/brunoperillo/sprint-6-pb-aws-univesp/tree/grupo-2) - Audio Message Indexing System with AWS.
+- [Sprint 7](https://github.com/brunoperillo/sprint-7-pb-aws-univesp/tree/grupo-2) - Chatbot with Amazon Lex v2.
+- [Sprint 8](https://github.com/brunoperillo/sprint-8-pb-aws-univesp/tree/grupo-1) - AWS Rekognition
 - [Sprint 9]() -
 - [Sprint 10]() - 
+
+
 
 ## - Courses
 - [Agile Management with FULL Scrum](https://compassuol.udemy.com/course/gestao-projetos-agile-scrum-completo/learn/lecture/25536012?course_portion_id=303076&learning_path_id=4565840#overview)
@@ -27,53 +29,55 @@ Overall, the internship program at the Cognitive Computing studio at Compass UOL
 - [Complete Git: From Basic to Advanced](https://compassuol.udemy.com/course/git-completo-do-basico-ao-avancado/learn/lecture/13903866?course_portion_id=304816&learning_path_id=4565840#overview)
 - [JavaScript from basic to advanced (w/ Node.js and projects)](https://compassuol.udemy.com/course/javascript-do-basico-ao-avancado-com-node-e-projetos/learn/lecture/18337370?course_portion_id=304820&learning_path_id=4565840#overview)
 - [Visual Studio Code: Absolute Productivity](https://compassuol.udemy.com/course/visual-studio-code-produtividade-absoluta/learn/lecture/18424500?course_portion_id=305856&learning_path_id=4565840#overview)
-- [AWS for Beginners 2023 - Learn and Master the Amazon Cloud](https://compassuol.udemy.com/course/aws-iniciantes-domine-a-nuvem-aws/learn/lecture/19511452?course_portion_id=302460&learning_path_id=4565840#overview)
-- [AWS in practice](https://compassuol.udemy.com/course/aws-na-pratica/learn/lecture/23341698?course_portion_id=302458&learning_path_id=4565840#overview)
+<!--- [AWS for Beginners 2023 - Learn and Master the Amazon Cloud](https://compassuol.udemy.com/course/aws-iniciantes-domine-a-nuvem-aws/learn/lecture/19511452?course_portion_id=302460&learning_path_id=4565840#overview) table
+- [AWS in practice](https://compassuol.udemy.com/course/aws-na-pratica/learn/lecture/23341698?course_portion_id=302458&learning_path_id=4565840#overview) table -->
 - [Docker for Developers (with Docker Swarm and Kubernetes)](https://compassuol.udemy.com/course/docker-para-desenvolvedores-com-docker-swarm-e-kubernetes/learn/lecture/25161664?course_portion_id=302456&learning_path_id=4565840#overview)
 - [Full Linux + Servers](https://compassuol.udemy.com/course/linux-completo-servidores/learn/lecture/21527762?course_portion_id=304826&learning_path_id=4565840#overview)
 - [PYTHON Programming from Zero to Advanced + Real Projects](https://compassuol.udemy.com/course/programacao-python-do-basico-ao-avancado/learn/lecture/24555276?learning_path_id=4565840#overview)
 - [Basic to Advanced SQL and NoSQL Databases](https://compassuol.udemy.com/course/curso-de-banco-de-dados-do-basico-ao-avancado/learn/lecture/13013656?course_portion_id=302468&learning_path_id=4565840#overview)
 - [Artificial Neural Networks in Python](https://compassuol.udemy.com/course/redes-neurais-artificiais-em-python/learn/lecture/8038594?learning_path_id=4565840#overview)
-- [Machine Learning with Amazon AWS and SageMaker](https://compassuol.udemy.com/course/machine-learning-amazon-aws-sagemaker/learn/lecture/32360348?learning_path_id=4565840#overview)
+<!--- [Machine Learning with Amazon AWS and SageMaker](https://compassuol.udemy.com/course/machine-learning-amazon-aws-sagemaker/learn/lecture/32360348?learning_path_id=4565840#overview) table -->
 - [Automate Everything with Python](https://compassuol.udemy.com/course/automate-everything-with-python/learn/lecture/29394204?course_portion_id=302466&learning_path_id=4565840#overview)
 - [Training Natural Language Processing: NLP](https://compassuol.udemy.com/course/formacao-processamento-de-linguagem-natural-nlp/learn/lecture/30918172?learning_path_id=4565840#overview)
-- [AWS Development 2020 Focused on Serverless](https://compassuol.udemy.com/course/serverless-aws/learn/lecture/20938672?learning_path_id=4565840#overview)
-- [Alexa Skill Builder for Beginners - Create Apps for Alexa](https://compassuol.udemy.com/course/alexa-skill-builder-curso-completo/learn/lecture/18334858?learning_path_id=4565840#overview)
-- [Amazon Connect Complete Training Course](https://compassuol.udemy.com/course/amazon-connect-complete-training-course/learn/lecture/30963386?learning_path_id=4565840#overview)
+<!--- [AWS Development 2020 Focused on Serverless](https://compassuol.udemy.com/course/serverless-aws/learn/lecture/20938672?learning_path_id=4565840#overview) table 
+- [Alexa Skill Builder for Beginners - Create Apps for Alexa](https://compassuol.udemy.com/course/alexa-skill-builder-curso-completo/learn/lecture/18334858?learning_path_id=4565840#overview) table
+- [Amazon Connect Complete Training Course](https://compassuol.udemy.com/course/amazon-connect-complete-training-course/learn/lecture/30963386?learning_path_id=4565840#overview) table-->
 - [Computer Vision: The Complete Guide](https://compassuol.udemy.com/course/visao-computacional-o-guia-completo/learn/lecture/28708436?learning_path_id=4565840#overview)
-- [Perform Facial and Object Recognition with AWS Rekognition](https://compassuol.udemy.com/course/amazon-aws-rekognition/learn/lecture/13949676?learning_path_id=4565840#overview)
-- [AWS: Cloud-Native com Terraform & Serverless Framework](https://compassuol.udemy.com/course/aws-cloud-native-com-terraform-serverless-framework/learn/lecture/15646118?learning_path_id=4565840#overview)
+<!--- [Perform Facial and Object Recognition with AWS Rekognition](https://compassuol.udemy.com/course/amazon-aws-rekognition/learn/lecture/13949676?learning_path_id=4565840#overview) table
+- [AWS: Cloud-Native com Terraform & Serverless Framework](https://compassuol.udemy.com/course/aws-cloud-native-com-terraform-serverless-framework/learn/lecture/15646118?learning_path_id=4565840#overview) table-->
 - [Terraform - From Basic to Advanced](https://compassuol.udemy.com/course/terraform-do-basico-ao-avancado/learn/lecture/30183174?learning_path_id=4565840#overview)
 - [Complete MLOps Bootcamp | From Zero to Hero in Python](https://compassuol.udemy.com/course/complete-mlops-bootcamp-from-zero-to-hero-in-python-2022/learn/lecture/30113094?course_portion_id=302464&learning_path_id=4565840#overview)
-- [Amazon AWS Cloud Practitioner Foundational Certification](https://compassuol.udemy.com/course/certificacao-aws-cloud-practitioner/learn/lecture/18778304?learning_path_id=4565840#overview)
-- [Mock Commented AWS Certified Cloud Practitioner](https://compassuol.udemy.com/course/simulado-comentado-aws-certified-cloud-practitioner/learn/lecture/20405857?learning_path_id=4565840#overview)
-- [AWS Cloud Practitioner Certification - Simulated](https://compassuol.udemy.com/course/aws-practitioner-em-portugues/learn/quiz/5283892?learning_path_id=4565840#overview)
-- [AWS Certified Cloud Practitioner Certification: Exam](https://compassuol.udemy.com/course/preparatorio-exame-aws-certified-cloud-practitioner-clf-c01/learn/lecture/16367672?learning_path_id=4565840#overview)
-- [Introduction to AWS Management Console](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/253/introduction-to-aws-management-console)
-- [Introduction to Containers](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/106/introduction-to-containers)
-- [Introduction to AWS Command Line Interface (CLI)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/223/introduction-to-aws-command-line-interface-cli)
-- [AWS Well-Architected](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/2045/aws-well-architected?trk=7625a020-4afb-4990-a453-69f0444e9ca5&sc_channel=el)
-- [Introduction to the AWS Cloud](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1679/introduction-to-the-aws-cloud)
-- [AWS Shared Responsibility Model](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1860/aws-shared-responsibility-model-portuguese)
-- [Introduction to AWS Identity and Access Management (IAM)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/120/introduction-to-aws-identity-and-access-management-iam)
-- [Introduction to Amazon Inspector](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/185/introduction-to-amazon-inspector))
-- [Introduction to Amazon Elastic Compute Cloud (EC2)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/49/introduction-to-amazon-elastic-compute-cloud-ec2)
-- [Amazon EC2 Basics](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12471/amazon-ec2-basics)
-- [Getting Started with AWS Storage](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6233/getting-started-with-aws-storage)
-- [Amazon Elastic Block Store (Amazon EBS) Primer](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1644/amazon-elastic-block-store-amazon-ebs-primer)
-- [Amazon Aurora Service Introduction](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/393/amazon-aurora-service-introduction)
-- [Amazon DynamoDB Service Introduction](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/326/amazon-dynamodb-service-introduction)
-- [Introduction to Amazon Virtual Private Cloud (VPC)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/79/introduction-to-amazon-virtual-private-cloud-vpc)
-- [AWS Partner: Cloud Economics](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1099/aws-partner-cloud-economics)
-- [AWS Partner: Accreditation (Technical)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1096/aws-partner-accreditation-technical)
-- [Getting Started with AWS Security, Identity, and Compliance](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/101/getting-started-with-aws-security-identity-and-compliance)
-- [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/134/aws-cloud-practitioner-essentials)
-- [AWS Cloud Practitioner Essentials: Core Services](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1990/aws-cloud-practitioner-essentials-core-services)
-- [AWS Cloud Practitioner Essentials: Cloud Concepts](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/2022/aws-cloud-practitioner-essentials-cloud-concepts)
+<!-- - [Amazon AWS Cloud Practitioner Foundational Certification](https://compassuol.udemy.com/course/certificacao-aws-cloud-practitioner/learn/lecture/18778304?learning_path_id=4565840#overview) table
+- [Mock Commented AWS Certified Cloud Practitioner](https://compassuol.udemy.com/course/simulado-comentado-aws-certified-cloud-practitioner/learn/lecture/20405857?learning_path_id=4565840#overview) table
+- [AWS Cloud Practitioner Certification - Simulated](https://compassuol.udemy.com/course/aws-practitioner-em-portugues/learn/quiz/5283892?learning_path_id=4565840#overview) table
+- [AWS Certified Cloud Practitioner Certification: Exam](https://compassuol.udemy.com/course/preparatorio-exame-aws-certified-cloud-practitioner-clf-c01/learn/lecture/16367672?learning_path_id=4565840#overview) table
+- [Introduction to AWS Management Console](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/253/introduction-to-aws-management-console) table
+- [Introduction to Containers](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/106/introduction-to-containers) table
+- [Introduction to AWS Command Line Interface (CLI)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/223/introduction-to-aws-command-line-interface-cli) table
+- [AWS Well-Architected](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/2045/aws-well-architected?trk=7625a020-4afb-4990-a453-69f0444e9ca5&sc_channel=el) table
+- [Introduction to the AWS Cloud](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1679/introduction-to-the-aws-cloud) table
+- [AWS Shared Responsibility Model](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1860/aws-shared-responsibility-model-portuguese) table
+- [Introduction to AWS Identity and Access Management (IAM)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/120/introduction-to-aws-identity-and-access-management-iam) table
+- [Introduction to Amazon Inspector](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/185/introduction-to-amazon-inspector) table
+- [Introduction to Amazon Elastic Compute Cloud (EC2)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/49/introduction-to-amazon-elastic-compute-cloud-ec2) table
+- [Amazon EC2 Basics](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12471/amazon-ec2-basics) table
+- [Getting Started with AWS Storage](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/6233/getting-started-with-aws-storage) table
+- [Amazon Elastic Block Store (Amazon EBS) Primer](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1644/amazon-elastic-block-store-amazon-ebs-primer) table
+- [Amazon Aurora Service Introduction](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/393/amazon-aurora-service-introduction) table
+- [Amazon DynamoDB Service Introduction](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/326/amazon-dynamodb-service-introduction) table
+- [Introduction to Amazon Virtual Private Cloud (VPC)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/79/introduction-to-amazon-virtual-private-cloud-vpc) table
+- [AWS Partner: Cloud Economics](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1099/aws-partner-cloud-economics) table
+- [AWS Partner: Accreditation (Technical)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1096/aws-partner-accreditation-technical) table
+- [Getting Started with AWS Security, Identity, and Compliance](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/101/getting-started-with-aws-security-identity-and-compliance) table
+- [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/134/aws-cloud-practitioner-essentials) table
+- [AWS Cloud Practitioner Essentials: Core Services](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1990/aws-cloud-practitioner-essentials-core-services) table- 
+- [AWS Cloud Practitioner Essentials: Cloud Concepts](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/2022/aws-cloud-practitioner-essentials-cloud-concepts) table -->
 
-| AWS Courses     | | |
+## AWS Courses
+| [AWS for Beginners 2023 - Learn and Master the Amazon Cloud](https://compassuol.udemy.com/course/aws-iniciantes-domine-a-nuvem-aws/learn/lecture/19511452?course_portion_id=302460&learning_path_id=4565840#overview) | [AWS in practice](https://compassuol.udemy.com/course/aws-na-pratica/learn/lecture/23341698?course_portion_id=302458&learning_path_id=4565840#overview) | [Alexa Skill Builder for Beginners - Create Apps for Alexa](https://compassuol.udemy.com/course/alexa-skill-builder-curso-completo/learn/lecture/18334858?learning_path_id=4565840#overview) |
 |:----------------:|:----------------:|:----------------:|
-| XYZ       | XYZ      | [Amazon AWS Cloud Practitioner Foundational Certification](https://compassuol.udemy.com/course/certificacao-aws-cloud-practitioner/learn/lecture/18778304?learning_path_id=4565840#overview) |
+| [Perform Facial and Object Recognition with AWS Rekognition](https://compassuol.udemy.com/course/amazon-aws-rekognition/learn/lecture/13949676?learning_path_id=4565840#overview) | [AWS: Cloud-Native com Terraform & Serverless Framework](https://compassuol.udemy.com/course/aws-cloud-native-com-terraform-serverless-framework/learn/lecture/15646118?learning_path_id=4565840#overview) | [Machine Learning with Amazon AWS and SageMaker](https://compassuol.udemy.com/course/machine-learning-amazon-aws-sagemaker/learn/lecture/32360348?learning_path_id=4565840#overview) |
+| [AWS Development 2020 Focused on Serverless](https://compassuol.udemy.com/course/serverless-aws/learn/lecture/20938672?learning_path_id=4565840#overview) | [Amazon Connect Complete Training Course](https://compassuol.udemy.com/course/amazon-connect-complete-training-course/learn/lecture/30963386?learning_path_id=4565840#overview) | [Amazon AWS Cloud Practitioner Foundational Certification](https://compassuol.udemy.com/course/certificacao-aws-cloud-practitioner/learn/lecture/18778304?learning_path_id=4565840#overview) |
 | [Mock Commented AWS Certified Cloud Practitioner](https://compassuol.udemy.com/course/simulado-comentado-aws-certified-cloud-practitioner/learn/lecture/20405857?learning_path_id=4565840#overview) | [AWS Cloud Practitioner Certification - Simulated](https://compassuol.udemy.com/course/aws-practitioner-em-portugues/learn/quiz/5283892?learning_path_id=4565840#overview) | [AWS Certified Cloud Practitioner Certification: Exam](https://compassuol.udemy.com/course/preparatorio-exame-aws-certified-cloud-practitioner-clf-c01/learn/lecture/16367672?learning_path_id=4565840#overview) |
 | [Introduction to AWS Management Console](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/253/introduction-to-aws-management-console) | [Introduction to Containers](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/106/introduction-to-containers) | [Introduction to AWS Command Line Interface (CLI)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/223/introduction-to-aws-command-line-interface-cli)|
 | [AWS Well-Architected](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/2045/aws-well-architected?trk=7625a020-4afb-4990-a453-69f0444e9ca5&sc_channel=el) | [Introduction to the AWS Cloud](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1679/introduction-to-the-aws-cloud) | [AWS Shared Responsibility Model](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1860/aws-shared-responsibility-model-portuguese)|
